@@ -1,0 +1,10 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+# Temp
+*.tmp
+*.log
+*~
+# Packet Tracer autosave (giữ file .pkt chính, bỏ backup)
+*.pkt.bak
